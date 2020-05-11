@@ -3,7 +3,7 @@ import TaskBoard from "../container/TaskBoard";
 import LoginPage from "../container/LoginPage";
 import SignupPage from "../container/SignupPage";
 
-export const API_ENDPOINT = "http://localhost:3000/";
+export const API_ENDPOINT = "https://5ead91a04350860016e138cc.mockapi.io/api/redux-saga/";
 export const STATUSES = [
   {
     value: 0,
